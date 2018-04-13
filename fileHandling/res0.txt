@@ -1,0 +1,1 @@
+It is an extension to the traditional pipe concept on Unix. A traditional pipe is “unnamed” and lasts only as long as the process.A named pipe, however, can last as long as the system is up, beyond the life of the process. It can be deleted if no longer used.Usually a named pipe appear
